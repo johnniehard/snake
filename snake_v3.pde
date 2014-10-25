@@ -1,5 +1,5 @@
 
-int boardSize = 20;
+int boardSize = 10;
 int[][] board = new int[boardSize][boardSize];
 int w;
 int h;
